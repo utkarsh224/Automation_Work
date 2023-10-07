@@ -1,5 +1,10 @@
 a = 2
 b = 3
 c = 2
-print("add", a+b+c)
 
+def add(a,b,c):
+    print("add", a+b+c)
+
+
+
+add(a,b,c)
